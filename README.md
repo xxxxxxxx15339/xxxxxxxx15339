@@ -1,6 +1,6 @@
 # Hi there 👋 I’m YOUR BRO
 
-<div align="center">
+<div>
 
   <!-- GitHub Stats Card -->
   <img
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  ### 🖥️ Programming Languages
+  ### 🖥️ Programming Languages :
   <img
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
     alt="Python"
@@ -56,7 +56,7 @@
     alt="RISC-V"
     style="margin:4px; display:inline-block;" />
 
-  ### 📚 Frameworks & Libraries
+  ### 📚 Frameworks & Libraries :
   <img
     src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"
     alt="Nuxt.js"
@@ -78,7 +78,7 @@
     alt="OpenPyXL"
     style="margin:4px; display:inline-block;" />
 
-  ### 🛠 Tools & Technologies
+  ### 🛠 Tools & Technologies :
   <img
     src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
     alt="Linux"
