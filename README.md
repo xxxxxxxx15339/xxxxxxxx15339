@@ -1,6 +1,9 @@
 # Hi there 👋 I’m Yasser
 
 [![GitHub followers](https://img.shields.io/github/followers/xxxxxxxx15339?style=social)](https://github.com/xxxxxxxx15339) • [Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
+---
+
+## GitHub Stats
 
 <p align="center">
   <img
