@@ -97,3 +97,9 @@
     style="margin:4px; display:inline-block;" />
 
 </div>
+
+---
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yasser-baouzil-354294343/)
