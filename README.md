@@ -7,6 +7,8 @@
 - 🌱 I’m currently an engineering student of COMPUTER SCIENCE (UM6P-College Of Computing/Morocco)<br>
 - 💞️ I’m looking to collaborate on programming projects and research papers<br>
 - 📫 How to reach me: mail: Yasser.BAOUZIL@um6p.ma or my personal mail: baouzilyasser@gmail.com<br>
+- 🌐 This my Personal Website : [Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
+---
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
@@ -25,8 +27,6 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xxxxxxxx15339&theme=github_dark" alt="Yasser's GitHub Stats"/></td>
     </tr>
  </table>
-
-[Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
 ---
 
 ## ⚙️ Technical Expertise
