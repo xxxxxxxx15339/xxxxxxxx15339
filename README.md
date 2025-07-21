@@ -26,22 +26,7 @@
     </tr>
  </table>
 
-[![GitHub followers](https://img.shields.io/github/followers/xxxxxxxx15339?style=social)](https://github.com/xxxxxxxx15339) • [Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xxxxxxxx15339&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-    width="420" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxx15339&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-    width="380" />
-</p>
-
+[Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
 ---
 
 ## ⚙️ Technical Expertise
