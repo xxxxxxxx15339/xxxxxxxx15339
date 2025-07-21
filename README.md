@@ -1,116 +1,87 @@
-
-   <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Yasser;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
-- 👀 I’m interested in Computer Science<br>
-- 🌱 I’m currently an engineering student of COMPUTER SCIENCE (UM6P-College Of Computing/Morocco)<br>
-- 💞️ I’m looking to collaborate on programming projects and research papers<br>
-- 📫 How to reach me: mail: Yasser.BAOUZIL@um6p.ma or my personal mail: baouzilyasser@gmail.com<br>
-- 🌐 This my Personal Website : [Website](https://xxxxxxxx15339.github.io/Berserker-Portfolio/)
----
-
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxxxxxx15339&theme=github_dark" alt="Aya's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=xxxxxxxx15339&theme=merko" alt="Aya's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxxxxxx15339&theme=github_dark" alt="Yasser's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xxxxxxxx15339&theme=github_dark&utcOffset=10" alt="Yasser's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxxxxxx15339&theme=github_dark" alt="Yasser's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xxxxxxxx15339&theme=github_dark" alt="Yasser's GitHub Stats"/></td>
-    </tr>
- </table>
----
-
-## ⚙️ Technical Expertise
-
 <div align="center">
 
-  ### 🖥️ Programming Languages :
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Python"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"
-    alt="C++"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/C-005A9C?style=flat-square&logo=c&logoColor=white"
-    alt="C"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-    alt="JavaScript"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
-    alt="SQL"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML5"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
-    alt="CSS3"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/RISC-V-000000?style=flat-square&logo=risc-v&logoColor=white"
-    alt="RISC-V"
-    style="margin:4px; display:inline-block;" />
+  <!-- Typing SVG Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=33FF33&background=0D1117&center=true&vCenter=true&width=600&lines=Hey,+I'm+Yasser!;Welcome+to+my+GitHub;Explore+my+journey" alt="Typing SVG"/>
 
-  ### 📚 Frameworks & Libraries :
-  <img
-    src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"
-    alt="Nuxt.js"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
-    alt="Node.js"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"
-    alt="Pandas"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"
-    alt="Matplotlib"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/OpenPyXL-107C41?style=flat-square&logo=microsoft-excel&logoColor=white"
-    alt="OpenPyXL"
-    style="margin:4px; display:inline-block;" />
+  <!-- Short Bio -->
+  <h3>👋 Hi there, I'm Yasser!</h3>
+  <p>Engineering student passionate about Computer Science, AI & Cloud Computing.</p>
 
-  ### 🛠 Tools & Technologies :
-  <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
-    alt="Linux"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
-    alt="Git"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-    style="margin:4px; display:inline-block;" />
-  <img
-    src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square"
-    alt="Data Structures"
-    style="margin:4px; display:inline-block;" />
-
+  <!-- Quick Links -->
+  <p>
+    📫 <a href="mailto:Yasser.BAOUZIL@um6p.ma">UM6P Email</a> | 
+    📫 <a href="mailto:baouzilyasser@gmail.com">Personal Email</a> | 
+    🌐 <a href="https://xxxxxxxx15339.github.io/Berserker-Portfolio/">Portfolio</a>
+  </p>
 </div>
 
 ---
 
-## Contact
+## 🏫 About Me
+- 🎓 **Currently:** 3rd‑year Computer Science Engineering student at UM6P College of Computing  
+- 🔎 **Interests:** Algorithms, Systems Programming, Machine Learning, Research  
+- 🤝 **Collaboration:** Open to programming projects & research papers  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yasser-baouzil-354294343/)
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-005A9C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/RISC-V-000000?style=flat-square&logo=risc-v&logoColor=white" alt="RISC‑V" />
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/OpenPyXL-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" alt="OpenPyXL" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square" alt="Data Structures" />
+</p>
+
+---
+
+## 🔭 Featured Projects
+| Project                                          | Tech Stack                     | Description                                 |
+|:-------------------------------------------------|:-------------------------------|:--------------------------------------------|
+| [Cloud Simulator](https://github.com/…/cloud-sim) | C++, CMake, SQLite             | Simulates resource allocation on servers.   |
+| [Blog App (Vue.js)](https://github.com/…/blog)   | Vue.js, Vuex, Firebase         | Full‑stack blog with CRUD and auth.         |
+| [Data Cleaner](https://github.com/…/data-clean)  | Python, pandas, OpenPyXL       | Interactive Excel de‑duplication & cleanup. |
+
+---
+
+## 📈 GitHub Stats
+<details>
+  <summary>Click to expand 📊</summary>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxxxxxx15339&theme=github_dark" alt="Profile Details" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxxxxxx15339&theme=merko" alt="Streak Stats" /><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxxxxxx15339&theme=github_dark" alt="Overall Stats" />
+  </p>
+</details>
+
+---
+
+## 📫 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasser-baouzil-354294343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:baouzilyasser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://xxxxxxxx15339.github.io/Berserker-Portfolio/"><img src="https://img.shields.io/badge/Website-10B981?style=flat-square&logo=about-dot-me&logoColor=white" alt="Website" /></a>
+</p>
