@@ -71,7 +71,7 @@
 | Project                                          | Tech Stack                     | Description                                 |
 |:-------------------------------------------------|:-------------------------------|:--------------------------------------------|
 | [Cloud Simulator](https://github.com/xxxxxxxx15339/Cloud_Management) | C++, CMake, SQLite             | Simulates resource allocation on servers.   |
-| [Blog App (Vue.js)](https://github.com/xxxxxxxx15339/Berserker-Portfolio)   | Vue.js, Vuex, Firebase         | Full‑stack blog with CRUD and auth.         |
+| [Berserker Portfolio](https://github.com/xxxxxxxx15339/Berserker-Portfolio)   | Vue, html, Tailwind css         | My personal Portfolio.         |
 | [Data Cleaner](https://github.com/xxxxxxxx15339/DouarMapper)  | Python, pandas, OpenPyXL       | Interactive Excel de‑duplication & cleanup. |
 
 ---
