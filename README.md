@@ -65,8 +65,8 @@
 | Project                                          | Tech Stack                     | Description                                 |
 |:-------------------------------------------------|:-------------------------------|:--------------------------------------------|
 | [Cloud Simulator](https://github.com/xxxxxxxx15339/Cloud_Management) | C++, CMake, SQLite             | Simulates resource allocation on servers.   |
-| [Berserker Portfolio](https://github.com/xxxxxxxx15339/Berserker-Portfolio)   | Vue, html, Tailwind css         | My personal Portfolio.         |
-| [Data Cleaner](https://github.com/xxxxxxxx15339/DouarMapper)  | Python, pandas, OpenPyXL       | Interactive Excel de‑duplication & cleanup. |
+| [Restaurant Queue System](https://github.com/xxxxxxxx15339/Restaurant-Order-Queue-Optimization-System) | Java, JavaFX, SQLite, Maven, Docker    | Restaurant order queue optimization with scheduling algorithms. |
+
 
 ---
 
