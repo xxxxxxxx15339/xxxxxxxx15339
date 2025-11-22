@@ -66,6 +66,7 @@
 |:-------------------------------------------------|:-------------------------------|:--------------------------------------------|
 | [Cloud Simulator](https://github.com/xxxxxxxx15339/Cloud_Management) | C++, CMake, SQLite             | Simulates resource allocation on servers.   |
 | [Restaurant Queue System](https://github.com/xxxxxxxx15339/Restaurant-Order-Queue-Optimization-System) | Java, JavaFX, SQLite, Maven, Docker, Sonar-Qube, Jenkins, Kubernetes    | Restaurant order queue optimization with scheduling algorithms. |
+| [TechScope Search Engine](https://github.com/xxxxxxxx15339/TechScope-SearchEngine) | Python, BeautifulSoup4, Requests, TF-IDF | Web crawler & search engine with intelligent ranking. |
 
 
 ---
