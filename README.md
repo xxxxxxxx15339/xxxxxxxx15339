@@ -65,7 +65,7 @@
 | Project                                          | Tech Stack                     | Description                                 |
 |:-------------------------------------------------|:-------------------------------|:--------------------------------------------|
 | [Cloud Simulator](https://github.com/xxxxxxxx15339/Cloud_Management) | C++, CMake, SQLite             | Simulates resource allocation on servers.   |
-| [Restaurant Queue System](https://github.com/xxxxxxxx15339/Restaurant-Order-Queue-Optimization-System) | Java, JavaFX, SQLite, Maven, Docker    | Restaurant order queue optimization with scheduling algorithms. |
+| [Restaurant Queue System](https://github.com/xxxxxxxx15339/Restaurant-Order-Queue-Optimization-System) | Java, JavaFX, SQLite, Maven, Docker, Sonar-Qube, Jenkins, Kubernetes    | Restaurant order queue optimization with scheduling algorithms. |
 
 
 ---
