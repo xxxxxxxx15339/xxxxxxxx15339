@@ -74,7 +74,6 @@
 | [Shocks and WENO](https://github.com/xxxxxxxx15339/Shocks-and-WENO) | Python, NumPy, TensorFlow, Keras, Numerical Methods | Research-oriented framework for classical and neural WENO shock-capturing methods, Euler equations, convergence studies, and PDE benchmarks. |
 | [GlassBox AutoML Agent](https://github.com/xxxxxxxx15339/GlassBox-AutoML-Agent) | Python, NumPy, Pytest, AutoML | Transparent NumPy-only AutoML framework with preprocessing, classical ML algorithms, cross-validation, hyperparameter search, and structured reports. |
 | [TechScope Search Engine](https://github.com/xxxxxxxx15339/TechScope-SearchEngine) | Python, Flask, BeautifulSoup, TF-IDF | Web crawler and information retrieval system using inverted indexing, TF-IDF weighting, and cosine similarity ranking. |
-| [MyOS](https://github.com/xxxxxxxx15339/MyOS) | C++17, Make, Operating Systems | Educational operating system simulation with scheduling, synchronization, memory management, file-system components, and an interactive shell. |
 | [Concurrent Reverse Proxy](https://github.com/xxxxxxxx15339/Reverse-Proxy) | Go, HTTP, Concurrency | Concurrent reverse proxy supporting load balancing, backend health monitoring, and dynamic backend management. |
 | [DouarMapper](https://github.com/xxxxxxxx15339/DouarMapper) | Python, Pandas, OpenPyXL | Data-cleaning and record-linkage tool for normalizing and deduplicating Moroccan commune and village datasets. |
 
